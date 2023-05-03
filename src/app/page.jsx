@@ -65,13 +65,13 @@ export default function Home() {
               </h2>
               <ul className="flex flex-col gap-3.5 w-full sm:max-w-md m-auto text-sm">
                 <li>
-                  <button className="w-full bg-gray-50 p-3 rounded-md hover:bg-gray-200">"Explain quantum computing in simple terms" →</button>
+                  <button className="w-full bg-gray-50 p-3 rounded-md hover:bg-gray-200">&quot;Explain quantum computing in simple terms&quot; →</button>
                 </li>
                 <li>
-                  <button className="w-full bg-gray-50 p-3 rounded-md hover:bg-gray-200">"Got any creative ideas for a 10 year old’s birthday?" →</button>
+                  <button className="w-full bg-gray-50 p-3 rounded-md hover:bg-gray-200">&quot;Got any creative ideas for a 10 year old’s birthday?&quot; →</button>
                 </li>
                 <li>
-                  <button className="w-full bg-gray-50 p-3 rounded-md hover:bg-gray-200">"How do I make an HTTP request in Javascript?" →</button>
+                  <button className="w-full bg-gray-50 p-3 rounded-md hover:bg-gray-200">&quot;How do I make an HTTP request in Javascript?&quot; →</button>
                 </li>
               </ul>
             </div>
